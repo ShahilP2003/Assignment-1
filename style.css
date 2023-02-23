@@ -1,0 +1,12 @@
+.pokebox {
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+.backgroundIMG {
+    background-image: url('./img/BackGroundIMG.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200vh;
+}
